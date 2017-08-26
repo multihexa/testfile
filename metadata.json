@@ -1,0 +1,15 @@
+{
+  "name": "charlesb-testfile",
+  "version": "0.1.0",
+  "author": "charlesb",
+  "summary": "test de gestion des addons dans rasppi",
+  "license": "Apache-2.0",
+  "source": "https://github.com/multihexa/testfile",
+  "project_page": "https://github.com/multihexa/testfile",
+  "issues_url": "https://github.com/multihexa/testfile/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
