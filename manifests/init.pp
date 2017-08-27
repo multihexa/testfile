@@ -44,6 +44,7 @@
 #
 class testfile {
   class { '::testfile::smashrepo':} ->
+  class { '::testfile::colossusrepo':} ->
   class { '::testfile::autoexecpy':}
 
 }
